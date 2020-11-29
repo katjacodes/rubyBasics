@@ -1,4 +1,4 @@
-# A simple form that corects capitalization errors in the input.
+# Using basic Ruby to build a simple form that corects capitalization errors in the input.
 
 print "What's your first name?"
 first_name = gets.chomp
