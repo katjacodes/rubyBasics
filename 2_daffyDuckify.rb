@@ -1,7 +1,7 @@
 =begin
 Some code that Daffy Duckifies your answer to a simple question based on the Rule of C. 
 (Langauge nerd disclaimer: This code does not take into account exceptions, 
-  such as "soccer" and "muscle" in AE and "sceptic" in BE.)
+such as "soccer" and "muscle" in AE and "sceptic" in BE.)
 =end
 
 print "Tell me something I don't know."
